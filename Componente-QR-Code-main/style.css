@@ -1,0 +1,40 @@
+body {
+    max-width: 1440px;
+    background-color: #d5e1ef;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px 15px;
+    background-color: #ffffff;
+    text-align: center;
+    align-items: center;
+    margin: 75px 0px 0px 500px;
+    width: 280px;
+    height: 435px;
+}
+
+img {
+    margin: auto;
+    width: 245px;
+    border-radius: 25px 25px;
+    margin-top: 15px;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 10px 10px 5px;
+}
+
+h2 {
+    font-size: 16px;
+    color: #bcc0c6;
+}
+
+@media screen and (max-width: 480px) {
+   .card {
+    margin:45px auto;
+   }
+}
