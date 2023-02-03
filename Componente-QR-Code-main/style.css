@@ -23,13 +23,13 @@ img {
     margin-top: 15px;
 }
 
-h1 {
+#txt-QR-code {
     font-family: sans-serif;
     font-size: 20px;
     padding: 10px 10px 5px;
 }
 
-h2 {
+#txt-sobre-QR-code {
     font-size: 16px;
     color: #bcc0c6;
 }
